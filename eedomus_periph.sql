@@ -42,6 +42,3 @@ ALTER TABLE `eedomus_periph`
 --
 ALTER TABLE `eedomus_periph`
 MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=1;
-
-
-/srv/www/EedomusDBaaSTS/cron_eedomus_to_ovhdbaasts.php
